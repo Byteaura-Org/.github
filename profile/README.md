@@ -27,13 +27,12 @@ ByteAura develops intelligent educational platforms that combine AI, modern web 
 - **Target Users:** Schools, Universities, Students, Educators
 - **Mission:** Making quality education accessible to all
 
-## 🤝 Get Involved
+<!-- ## 🤝 Get Involved -->
+<!-- We're always looking for passionate developers, educators, and innovators to join our mission. Whether you're interested in: -->
 
-// We're always looking for passionate developers, educators, and innovators to join our mission. Whether you're interested in:
-
-// - 💻 Contributing to our open-source projects
-// - 🎓 Partnering with educational institutions
-// - 🚀 Building the future of education technology
+<!-- - 💻 Contributing to our open-source projects -->
+<!-- - 🎓 Partnering with educational institutions -->
+<!-- - 🚀 Building the future of education technology -->
 
 **Reach out to us!**
 
