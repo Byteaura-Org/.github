@@ -1,4 +1,4 @@
-# ByteAura 🚀
+# ByteAura Organization 🚀
 
 **Transforming Education Through Technology**
 
@@ -22,18 +22,18 @@ ByteAura develops intelligent educational platforms that combine AI, modern web 
 
 ## 🌍 Our Impact
 
-- **Founded:** 2023
+- **Founded:** 2025
 - **Focus Markets:** Ghana, West Africa, Global
 - **Target Users:** Schools, Universities, Students, Educators
 - **Mission:** Making quality education accessible to all
 
 ## 🤝 Get Involved
 
-We're always looking for passionate developers, educators, and innovators to join our mission. Whether you're interested in:
+// We're always looking for passionate developers, educators, and innovators to join our mission. Whether you're interested in:
 
-- 💻 Contributing to our open-source projects
-- 🎓 Partnering with educational institutions
-- 🚀 Building the future of education technology
+// - 💻 Contributing to our open-source projects
+// - 🎓 Partnering with educational institutions
+// - 🚀 Building the future of education technology
 
 **Reach out to us!**
 
